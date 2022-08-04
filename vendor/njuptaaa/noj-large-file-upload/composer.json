@@ -1,0 +1,37 @@
+{
+    "name": "njuptaaa/noj-large-file-upload",
+    "description": "NOJ large file upload extension.",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension", "catlane", "chunk_file", "noj", "large-file-upload"],
+    "homepage": "https://github.com/NJUPTAAA/NOJ_Large_File_Upload",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "杨宇辉",
+            "email": "catlane@foxmail.com"
+        }, {
+            "name": "ZsgsDesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "qiniu/php-sdk": "^7.2",
+        "encore/laravel-admin": "~1.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Encore\\ChunkFileUpload\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Encore\\ChunkFileUpload\\ChunkFileUploadServiceProvider"
+            ]
+        }
+    }
+}

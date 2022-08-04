@@ -1,0 +1,13 @@
+{
+    "name": "njuptaaa/laravel-admin-assets",
+    "description": "laravel-admin-assets",
+    "type": "laravel-admin-asset",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zsgsdesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {}
+}

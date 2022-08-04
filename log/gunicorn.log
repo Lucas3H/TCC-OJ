@@ -1,0 +1,386 @@
+[2022-08-01 18:58:45 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-01 18:58:45 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-01 18:58:45 +0000] [7] [INFO] Using worker: gthread
+[2022-08-01 18:58:45 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-01 18:58:45 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-01 18:58:45 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-01 18:58:45 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-01 18:58:46 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-01 18:58:46 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-01 18:58:46 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-01 18:58:46 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-01 18:58:46 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-01 18:58:46 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-01 18:58:46 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-01 18:58:46 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-01 18:58:46 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-01 18:58:46 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-01 18:58:46 +0000] [44] [INFO] Booting worker with pid: 44
+[2022-08-01 18:58:46 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-01 19:06:06 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-01 19:06:06 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-01 19:06:06 +0000] [7] [INFO] Using worker: gthread
+[2022-08-01 19:06:06 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-01 19:06:06 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-01 19:06:06 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-01 19:06:06 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-01 19:06:06 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-01 19:06:07 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-01 19:06:07 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-01 19:06:07 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-01 19:06:07 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-01 19:06:07 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-01 19:06:07 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-01 19:06:07 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-01 19:06:07 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-01 19:06:07 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-01 19:06:07 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-01 19:06:07 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-01 19:14:40 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-01 19:14:40 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-01 19:14:40 +0000] [7] [INFO] Using worker: gthread
+[2022-08-01 19:14:40 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-01 19:14:41 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-01 19:14:41 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-01 19:14:41 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-01 19:14:41 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-01 19:14:41 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-01 19:14:41 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-01 19:14:41 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-01 19:14:41 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-01 19:14:41 +0000] [34] [INFO] Booting worker with pid: 34
+[2022-08-01 19:14:41 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-01 19:14:41 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-01 19:14:41 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-01 19:14:41 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-01 19:14:41 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-01 19:14:41 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-01 19:18:29 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-01 19:18:29 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-01 19:18:29 +0000] [7] [INFO] Using worker: gthread
+[2022-08-01 19:18:29 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-01 19:18:29 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-01 19:18:29 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-01 19:18:29 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-01 19:18:29 +0000] [24] [INFO] Booting worker with pid: 24
+[2022-08-01 19:18:29 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-01 19:18:29 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-01 19:18:29 +0000] [30] [INFO] Booting worker with pid: 30
+[2022-08-01 19:18:29 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-01 19:18:29 +0000] [34] [INFO] Booting worker with pid: 34
+[2022-08-01 19:18:30 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-01 19:18:30 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-01 19:18:30 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-01 19:18:30 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-01 19:18:30 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-01 19:18:30 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-01 19:25:23 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-01 19:25:23 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-01 19:25:23 +0000] [7] [INFO] Using worker: gthread
+[2022-08-01 19:25:23 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-01 19:25:23 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-01 19:25:23 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-01 19:25:23 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-01 19:25:23 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-01 19:25:23 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-01 19:25:23 +0000] [28] [INFO] Booting worker with pid: 28
+[2022-08-01 19:25:23 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-01 19:25:23 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-01 19:25:24 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-01 19:25:24 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-01 19:25:24 +0000] [38] [INFO] Booting worker with pid: 38
+[2022-08-01 19:25:24 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-01 19:25:24 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-01 19:25:24 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-01 19:25:24 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-01 19:41:24 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-01 19:41:24 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-01 19:41:24 +0000] [7] [INFO] Using worker: gthread
+[2022-08-01 19:41:24 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-01 19:41:24 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-01 19:41:24 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-01 19:41:24 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-01 19:41:24 +0000] [24] [INFO] Booting worker with pid: 24
+[2022-08-01 19:41:24 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-01 19:41:24 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-01 19:41:24 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-01 19:41:24 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-01 19:41:24 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-01 19:41:24 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-01 19:41:24 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-01 19:41:24 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-01 19:41:24 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-01 19:41:24 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-01 19:41:24 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-01 20:04:29 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-01 20:04:29 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-01 20:04:29 +0000] [7] [INFO] Using worker: gthread
+[2022-08-01 20:04:29 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-01 20:04:29 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-01 20:04:29 +0000] [20] [INFO] Booting worker with pid: 20
+[2022-08-01 20:04:29 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-01 20:04:29 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-01 20:04:29 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-01 20:04:29 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-01 20:04:29 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-01 20:04:29 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-01 20:04:29 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-01 20:04:30 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-01 20:04:30 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-01 20:04:30 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-01 20:04:30 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-01 20:04:30 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-01 20:04:30 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-02 13:59:12 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-02 13:59:12 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-02 13:59:12 +0000] [7] [INFO] Using worker: gthread
+[2022-08-02 13:59:12 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-02 13:59:12 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-02 13:59:12 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-02 13:59:12 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-02 13:59:12 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-02 13:59:12 +0000] [26] [INFO] Booting worker with pid: 26
+[2022-08-02 13:59:12 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-02 13:59:12 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-02 13:59:12 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-02 13:59:12 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-02 13:59:12 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-02 13:59:12 +0000] [38] [INFO] Booting worker with pid: 38
+[2022-08-02 13:59:12 +0000] [40] [INFO] Booting worker with pid: 40
+[2022-08-02 13:59:12 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-02 13:59:12 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-02 13:59:13 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-02 14:02:43 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-02 14:02:43 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-02 14:02:43 +0000] [7] [INFO] Using worker: gthread
+[2022-08-02 14:02:43 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-02 14:02:43 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-02 14:02:43 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-02 14:02:43 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-02 14:02:43 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-02 14:02:43 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-02 14:02:43 +0000] [28] [INFO] Booting worker with pid: 28
+[2022-08-02 14:02:43 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-02 14:02:43 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-02 14:02:43 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-02 14:02:44 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-02 14:02:44 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-02 14:02:44 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-02 14:02:44 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-02 14:02:44 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-02 14:02:44 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-02 14:09:35 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-02 14:09:35 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-02 14:09:35 +0000] [7] [INFO] Using worker: gthread
+[2022-08-02 14:09:35 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-02 14:09:35 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-02 14:09:35 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-02 14:09:35 +0000] [22] [INFO] Booting worker with pid: 22
+[2022-08-02 14:09:36 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-02 14:09:36 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-02 14:09:36 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-02 14:09:36 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-02 14:09:36 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-02 14:09:36 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-02 14:09:36 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-02 14:09:36 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-02 14:09:36 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-02 14:09:36 +0000] [42] [INFO] Booting worker with pid: 42
+[2022-08-02 14:09:36 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-02 14:09:36 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-02 14:26:05 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-02 14:26:05 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-02 14:26:05 +0000] [7] [INFO] Using worker: gthread
+[2022-08-02 14:26:05 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-02 14:26:05 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-02 14:26:05 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-02 14:26:05 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-02 14:26:05 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-02 14:26:05 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-02 14:26:05 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-02 14:26:05 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-02 14:26:05 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-02 14:26:05 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-02 14:26:05 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-02 14:26:05 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-02 14:26:05 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-02 14:26:05 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-02 14:26:05 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-02 14:26:05 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-02 14:35:05 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-02 14:35:05 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-02 14:35:05 +0000] [7] [INFO] Using worker: gthread
+[2022-08-02 14:35:05 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-02 14:35:06 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-02 14:35:06 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-02 14:35:06 +0000] [22] [INFO] Booting worker with pid: 22
+[2022-08-02 14:35:06 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-02 14:35:06 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-02 14:35:06 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-02 14:35:06 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-02 14:35:06 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-02 14:35:06 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-02 14:35:06 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-02 14:35:06 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-02 14:35:06 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-02 14:35:06 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-02 14:35:06 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-02 14:35:06 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-03 16:33:49 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 16:33:49 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-03 16:33:49 +0000] [7] [INFO] Using worker: gthread
+[2022-08-03 16:33:49 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-03 16:33:49 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-03 16:33:49 +0000] [20] [INFO] Booting worker with pid: 20
+[2022-08-03 16:33:49 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-03 16:33:49 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-03 16:33:49 +0000] [26] [INFO] Booting worker with pid: 26
+[2022-08-03 16:33:49 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-03 16:33:49 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-03 16:33:49 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-03 16:33:49 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-03 16:33:49 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-03 16:33:49 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-03 16:33:49 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-03 16:33:49 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-03 16:33:49 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-03 16:33:50 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-03 19:34:16 +0000] [7] [CRITICAL] WORKER TIMEOUT (pid:45)
+[2022-08-03 19:34:16 +0000] [7] [CRITICAL] WORKER TIMEOUT (pid:47)
+[2022-08-03 19:34:16 +0000] [45] [INFO] Worker exiting (pid: 45)
+[2022-08-03 19:34:16 +0000] [47] [INFO] Worker exiting (pid: 47)
+[2022-08-03 19:34:16 +0000] [49] [INFO] Booting worker with pid: 49
+[2022-08-03 19:34:16 +0000] [51] [INFO] Booting worker with pid: 51
+[2022-08-03 20:01:58 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 20:01:58 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-03 20:01:58 +0000] [7] [INFO] Using worker: gthread
+[2022-08-03 20:01:58 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-03 20:01:59 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-03 20:01:59 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-03 20:01:59 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-03 20:01:59 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-03 20:01:59 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-03 20:01:59 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-03 20:01:59 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-03 20:01:59 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-03 20:01:59 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-03 20:01:59 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-03 20:01:59 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-03 20:01:59 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-03 20:01:59 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-03 20:01:59 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-03 20:01:59 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-03 20:34:33 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 20:34:33 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-03 20:34:33 +0000] [7] [INFO] Using worker: gthread
+[2022-08-03 20:34:33 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-03 20:34:33 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-03 20:34:33 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-03 20:34:33 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-03 20:34:33 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-03 20:34:33 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-03 20:34:33 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-03 20:34:33 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-03 20:34:33 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-03 20:34:33 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-03 20:34:33 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-03 20:34:34 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-03 20:34:34 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-03 20:34:34 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-03 20:34:34 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-03 20:34:34 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-03 20:42:21 +0000] [6] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 20:42:21 +0000] [6] [INFO] Listening at: http://0.0.0.0:8080 (6)
+[2022-08-03 20:42:21 +0000] [6] [INFO] Using worker: gthread
+[2022-08-03 20:42:21 +0000] [16] [INFO] Booting worker with pid: 16
+[2022-08-03 20:42:21 +0000] [18] [INFO] Booting worker with pid: 18
+[2022-08-03 20:42:21 +0000] [20] [INFO] Booting worker with pid: 20
+[2022-08-03 20:42:21 +0000] [22] [INFO] Booting worker with pid: 22
+[2022-08-03 20:42:21 +0000] [24] [INFO] Booting worker with pid: 24
+[2022-08-03 20:42:21 +0000] [26] [INFO] Booting worker with pid: 26
+[2022-08-03 20:42:21 +0000] [28] [INFO] Booting worker with pid: 28
+[2022-08-03 20:42:21 +0000] [30] [INFO] Booting worker with pid: 30
+[2022-08-03 20:42:21 +0000] [32] [INFO] Booting worker with pid: 32
+[2022-08-03 20:42:22 +0000] [34] [INFO] Booting worker with pid: 34
+[2022-08-03 20:42:22 +0000] [36] [INFO] Booting worker with pid: 36
+[2022-08-03 20:42:22 +0000] [38] [INFO] Booting worker with pid: 38
+[2022-08-03 20:42:22 +0000] [40] [INFO] Booting worker with pid: 40
+[2022-08-03 20:42:22 +0000] [42] [INFO] Booting worker with pid: 42
+[2022-08-03 20:42:22 +0000] [44] [INFO] Booting worker with pid: 44
+[2022-08-03 20:42:22 +0000] [46] [INFO] Booting worker with pid: 46
+[2022-08-03 20:56:07 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 20:56:07 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-03 20:56:07 +0000] [7] [INFO] Using worker: gthread
+[2022-08-03 20:56:07 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-03 20:56:07 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-03 20:56:07 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-03 20:56:07 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-03 20:56:08 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-03 20:56:08 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-03 20:56:08 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-03 20:56:08 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-03 20:56:08 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-03 20:56:08 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-03 20:56:08 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-03 20:56:08 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-03 20:56:08 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-03 20:56:08 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-03 20:56:08 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-03 20:56:08 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-03 21:22:22 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 21:22:22 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-03 21:22:22 +0000] [7] [INFO] Using worker: gthread
+[2022-08-03 21:22:22 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-03 21:22:23 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-03 21:22:23 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-03 21:22:23 +0000] [22] [INFO] Booting worker with pid: 22
+[2022-08-03 21:22:23 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-03 21:22:23 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-03 21:22:23 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-03 21:22:23 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-03 21:22:23 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-03 21:22:23 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-03 21:22:23 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-03 21:22:23 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-03 21:22:23 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-03 21:22:23 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-03 21:22:23 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-03 21:22:23 +0000] [47] [INFO] Booting worker with pid: 47
+[2022-08-03 23:00:05 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 23:00:05 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-03 23:00:05 +0000] [7] [INFO] Using worker: gthread
+[2022-08-03 23:00:05 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-03 23:00:05 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-03 23:00:05 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-03 23:00:05 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-03 23:00:05 +0000] [25] [INFO] Booting worker with pid: 25
+[2022-08-03 23:00:05 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-03 23:00:05 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-03 23:00:06 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-03 23:00:06 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-03 23:00:06 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-03 23:00:06 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-03 23:00:06 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-03 23:00:06 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-03 23:00:06 +0000] [42] [INFO] Booting worker with pid: 42
+[2022-08-03 23:00:06 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-03 23:00:06 +0000] [46] [INFO] Booting worker with pid: 46
+[2022-08-03 23:04:00 +0000] [7] [INFO] Starting gunicorn 20.1.0
+[2022-08-03 23:04:00 +0000] [7] [INFO] Listening at: http://0.0.0.0:8080 (7)
+[2022-08-03 23:04:00 +0000] [7] [INFO] Using worker: gthread
+[2022-08-03 23:04:00 +0000] [17] [INFO] Booting worker with pid: 17
+[2022-08-03 23:04:00 +0000] [19] [INFO] Booting worker with pid: 19
+[2022-08-03 23:04:00 +0000] [21] [INFO] Booting worker with pid: 21
+[2022-08-03 23:04:00 +0000] [23] [INFO] Booting worker with pid: 23
+[2022-08-03 23:04:00 +0000] [24] [INFO] Booting worker with pid: 24
+[2022-08-03 23:04:00 +0000] [27] [INFO] Booting worker with pid: 27
+[2022-08-03 23:04:00 +0000] [29] [INFO] Booting worker with pid: 29
+[2022-08-03 23:04:00 +0000] [31] [INFO] Booting worker with pid: 31
+[2022-08-03 23:04:00 +0000] [33] [INFO] Booting worker with pid: 33
+[2022-08-03 23:04:00 +0000] [35] [INFO] Booting worker with pid: 35
+[2022-08-03 23:04:00 +0000] [37] [INFO] Booting worker with pid: 37
+[2022-08-03 23:04:00 +0000] [39] [INFO] Booting worker with pid: 39
+[2022-08-03 23:04:00 +0000] [41] [INFO] Booting worker with pid: 41
+[2022-08-03 23:04:00 +0000] [43] [INFO] Booting worker with pid: 43
+[2022-08-03 23:04:00 +0000] [45] [INFO] Booting worker with pid: 45
+[2022-08-03 23:04:00 +0000] [47] [INFO] Booting worker with pid: 47

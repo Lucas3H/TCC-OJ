@@ -1,0 +1,33 @@
+{
+    "name": "zsgsdesign/noj-admin-clike-editor",
+    "description": "Several c-lick language editor extensions for laravel-admin based on code-mirror",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension", "code-mirror", "editor", "clang", "cpp", "java", "objectivec", "scala", "kotlin", "Ceylon"],
+    "homepage": "https://github.com/laravel-admin-ext/clike-editor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Zhang",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "zsgsdesign/noj-admin-code-mirror": "dev-main"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZsgsDesign\\ClikeEditor\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ZsgsDesign\\ClikeEditor\\ClikeEditorServiceProvider"
+            ]
+        }
+    }
+}

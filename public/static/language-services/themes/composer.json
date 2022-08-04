@@ -1,0 +1,13 @@
+{
+    "name": "noj-language-service/themes",
+    "description": "Standalone Themes for Language Services of NOJ.",
+    "type": "noj-language-services",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zsgsdesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {}
+}

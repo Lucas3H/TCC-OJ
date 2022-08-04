@@ -1,0 +1,13 @@
+{
+    "name": "noj-language-service/configurations",
+    "description": "Standalone Configurations for Language Services of NOJ.",
+    "type": "noj-language-services",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zsgsdesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {}
+}
