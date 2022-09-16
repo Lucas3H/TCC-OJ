@@ -17,6 +17,7 @@ services:
       - 'mysql_data:/bitnami/mysql/data'
     networks:
       - app-network
+    container_name: moji_db
 
   redis:
     image: 'redis:6.0'
@@ -31,7 +32,7 @@ services:
 
     networks:
       - app-network
-    container_name: noj_redis
+    container_name: moji_redis
   noj:
     tty: true
     build:
@@ -61,6 +62,8 @@ services:
       - ./:/app
     networks:
       - app-network
+    container_name: moji
+
   judge_server:
       image: njuptaaa/judge_server:v0.3.1
       restart: always
@@ -93,3 +96,4 @@ volumes:
     driver: local
   mysql_data:
     driver: local
+
