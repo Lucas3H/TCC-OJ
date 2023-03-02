@@ -78,10 +78,10 @@ services:
       tmpfs:
           - /tmp
       volumes:
-          - $PWD/tests/test_case:/test_case:ro
-          - $PWD/log:/log
-          # - $PWD/server:/code:ro
-          - $PWD/run:/judger
+          - ./storage/test_case:/test_case:ro
+          - ./storage/log:/log
+          #- ./server:/code:ro
+          - ./run:/judger
       environment:
           - BACKEND_URL=http://noj:3000/api/judge_server_heartbeat
           - SERVICE_URL=http://judge-server:12358
