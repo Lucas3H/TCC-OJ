@@ -12,7 +12,7 @@ if (!function_exists('version')) {
     function version()
     {
         $version=new Version(
-            '0.17.4',
+            '0.3.2',
             base_path()
         );
         return $version->getVersion();
