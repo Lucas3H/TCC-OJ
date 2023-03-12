@@ -98,7 +98,7 @@
                             <a class="nav-link @if ($navigation === "Problem") active @endif" href="/problem"> <i class="MDI book-multiple"></i> {{__('navigation.problem')}}</a>
                         </li>
                     @endif
-                    @if($userNotContestAccount)
+                    @if($userNotContestAccount) 
                         <li class="nav-item">
                             <a class="nav-link @if ($navigation === "Dojo") active @endif" href="/dojo"> <i class="MDI coffee"></i> {{__('navigation.dojo')}}</a>
                         </li>
@@ -109,17 +109,26 @@
                         </li>
                     @endif
                     @if($userNotContestAccount)
+                        <?php /* 
                         <li class="nav-item">
                             <a class="nav-link @if ($navigation === "Rank") active @endif" href="/rank"> <i class="MDI certificate"></i> {{__('navigation.rank')}}</a>
                         </li>
+                        */?>
                     @endif
+                    <?php /* 
+                        
                     <li class="nav-item">
                         <a class="nav-link @if ($navigation === "Contest") active @endif" href="/contest"> <i class="MDI trophy-variant"></i> {{__('navigation.contest')}}</a>
                     </li>
+                    */?>
                     @if($userNotContestAccount)
+                    <?php /* 
+                        
                     <li class="nav-item">
                         <a class="nav-link @if ($navigation === "Group") active @endif" href="/group"> <i class="MDI account-multiple"></i> {{__('navigation.group')}}</a>
                     </li>
+                    */?>
+                    
                     @endif
                     @if($userNotContestAccount)
                         @foreach(getCustomUrl() as $u)
