@@ -1,0 +1,381 @@
+{
+    "modifications":[{
+        "code":"3003",
+        "compability":"c",
+        "language":"cpp",
+        "icon":"devicon-cplusplus-plain",
+        "display":"C++14 (GCC 5.4.1)",
+        "method":"add"
+    },{
+        "code":"3001",
+        "compability":"shellscript",
+        "language":"shellscript",
+        "icon":"devicon-devicon-plain",
+        "display":"Bash (GNU bash v4.3.11)",
+        "method":"add"
+    },{
+        "code":"3002",
+        "compability":"c",
+        "language":"c",
+        "icon":"devicon-c-plain",
+        "display":"C (GCC 5.4.1)",
+        "method":"add"
+    },{
+        "code":"3004",
+        "compability":"c",
+        "language":"c",
+        "icon":"devicon-c-plain",
+        "display":"C (Clang 3.8.0)",
+        "method":"add"
+    },{
+        "code":"3029",
+        "compability":"c",
+        "language":"cpp",
+        "icon":"devicon-cpp-plain",
+        "display":"C++ (GCC 5.4.1)",
+        "method":"add"
+    },{
+        "code":"3030",
+        "compability":"c",
+        "language":"cpp",
+        "icon":"devicon-cpp-plain",
+        "display":"C++ (Clang 3.8.0)",
+        "method":"add"
+    },{
+        "code":"3005",
+        "compability":"c",
+        "language":"cpp",
+        "icon":"devicon-cpp-plain",
+        "display":"C++14 (Clang 3.8.0)",
+        "method":"add"
+    },{
+        "code":"3006",
+        "compability":"c",
+        "language":"csharp",
+        "icon":"devicon-csharp-plain",
+        "display":"C# (Mono 4.6.2.0)",
+        "method":"add"
+    },{
+        "code":"3007",
+        "compability":"lisp",
+        "language":"clojure",
+        "icon":"devicon-devicon-plain",
+        "display":"Clojure (1.8.0)",
+        "method":"add"
+    },{
+        "code":"3008",
+        "compability":"lisp",
+        "language":"lisp",
+        "icon":"devicon-devicon-plain",
+        "display":"Common Lisp (SBCL 1.1.14)",
+        "method":"add"
+    },{
+        "code":"3009",
+        "compability":"d",
+        "language":"d",
+        "icon":"devicon-devicon-plain",
+        "display":"D (DMD64 v2.070.1)",
+        "method":"add"
+    },{
+        "code":"3010",
+        "compability":"d",
+        "language":"d",
+        "icon":"devicon-devicon-plain",
+        "display":"D (LDC 0.17.0)",
+        "method":"add"
+    },{
+        "code":"3011",
+        "compability":"d",
+        "language":"d",
+        "icon":"devicon-devicon-plain",
+        "display":"D (GDC 4.9.4)",
+        "method":"add"
+    },{
+        "code":"3012",
+        "compability":"fortran",
+        "language":"fortran",
+        "icon":"devicon-devicon-plain",
+        "display":"Fortran (gfortran v4.8.4)",
+        "method":"add"
+    },{
+        "code":"3013",
+        "compability":"go",
+        "language":"go",
+        "icon":"devicon-go-plain",
+        "display":"Go (1.6)",
+        "method":"add"
+    },{
+        "code":"3014",
+        "compability":"haskell",
+        "language":"haskell",
+        "icon":"devicon-devicon-plain",
+        "display":"Haskell (GHC 7.10.3)",
+        "method":"add"
+    },{
+        "code":"3015",
+        "compability":"java",
+        "language":"java",
+        "icon":"devicon-java-plain",
+        "display":"Java7 (OpenJDK 1.7.0)",
+        "method":"add"
+    },{
+        "code":"3016",
+        "compability":"java",
+        "language":"java",
+        "icon":"devicon-java-plain",
+        "display":"Java8 (OpenJDK 1.8.0)",
+        "method":"add"
+    },{
+        "code":"3017",
+        "compability":"javascript",
+        "language":"javascript",
+        "icon":"devicon-javascript-plain",
+        "display":"JavaScript (node.js v5.12)",
+        "method":"add"
+    },{
+        "code":"3018",
+        "compability":"ml",
+        "language":"caml",
+        "icon":"devicon-devicon-plain",
+        "display":"OCaml (4.02.3)",
+        "method":"add"
+    },{
+        "code":"3019",
+        "compability":"pascal",
+        "language":"pascal",
+        "icon":"devicon-devicon-plain",
+        "display":"Pascal (FPC 2.6.2)",
+        "method":"add"
+    },{
+        "code":"3020",
+        "compability":"perl",
+        "language":"perl",
+        "icon":"devicon-devicon-plain",
+        "display":"Perl (v5.18.2)",
+        "method":"add"
+    },{
+        "code":"3021",
+        "compability":"php",
+        "language":"php",
+        "icon":"devicon-php-plain",
+        "display":"PHP (5.6.30)",
+        "method":"add"
+    },{
+        "code":"3022",
+        "compability":"python",
+        "language":"python",
+        "icon":"devicon-python-plain",
+        "display":"Python2 (2.7.6)",
+        "method":"add"
+    },{
+        "code":"3023",
+        "compability":"python",
+        "language":"python",
+        "icon":"devicon-python-plain",
+        "display":"Python3 (3.4.3)",
+        "method":"add"
+    },{
+        "code":"3024",
+        "compability":"ruby",
+        "language":"ruby",
+        "icon":"devicon-ruby-plain",
+        "display":"Ruby (2.3.3)",
+        "method":"add"
+    },{
+        "code":"3025",
+        "compability":"java",
+        "language":"scala",
+        "icon":"devicon-devicon-plain",
+        "display":"Scala (2.11.7)",
+        "method":"add"
+    },{
+        "code":"3026",
+        "compability":"lisp",
+        "language":"scheme",
+        "icon":"devicon-devicon-plain",
+        "display":"Scheme (Gauche 0.9.3.3)",
+        "method":"add"
+    },{
+        "code":"3027",
+        "compability":"plaintext",
+        "language":"plaintext",
+        "icon":"devicon-devicon-plain",
+        "display":"Text (cat)",
+        "method":"add"
+    },{
+        "code":"3028",
+        "compability":"basic",
+        "language":"basic",
+        "icon":"devicon-devicon-plain",
+        "display":"Visual Basic (Mono 4.0.1)",
+        "method":"add"
+    },{
+        "code":"3501",
+        "compability":"c",
+        "language":"objective-c",
+        "icon":"devicon-c-plain",
+        "display":"Objective-C (GCC 5.3.0)",
+        "method":"add"
+    },{
+        "code":"3502",
+        "compability":"c",
+        "language":"objective-c",
+        "icon":"devicon-c-plain",
+        "display":"Objective-C (Clang3.8.0)",
+        "method":"add"
+    },{
+        "code":"3503",
+        "compability":"swift",
+        "language":"swift",
+        "icon":"devicon-swift-plain",
+        "display":"Swift (swift-2.2-RELEASE)",
+        "method":"add"
+    },{
+        "code":"3504",
+        "compability":"rust",
+        "language":"rust",
+        "icon":"devicon-devicon-plain",
+        "display":"Rust (1.15.1)",
+        "method":"add"
+    },{
+        "code":"3505",
+        "compability":"sed",
+        "language":"sed",
+        "icon":"devicon-devicon-plain",
+        "display":"Sed (GNU sed 4.2.2)",
+        "method":"add"
+    },{
+        "code":"3506",
+        "compability":"awk",
+        "language":"awk",
+        "icon":"devicon-devicon-plain",
+        "display":"Awk (mawk 1.3.3)",
+        "method":"add"
+    },{
+        "code":"3507",
+        "compability":"brainfuck",
+        "language":"brainfuck",
+        "icon":"devicon-devicon-plain",
+        "display":"Brainfuck (bf 20041219)",
+        "method":"add"
+    },{
+        "code":"3508",
+        "compability":"ml",
+        "language":"sml",
+        "icon":"devicon-devicon-plain",
+        "display":"Standard ML (MLton 20100608)",
+        "method":"add"
+    },{
+        "code":"3509",
+        "compability":"python",
+        "language":"python",
+        "icon":"devicon-python-plain",
+        "display":"PyPy2 (5.6.0)",
+        "method":"add"
+    },{
+        "code":"3510",
+        "compability":"python",
+        "language":"python",
+        "icon":"devicon-python-plain",
+        "display":"PyPy3 (2.4.0)",
+        "method":"add"
+    },{
+        "code":"3511",
+        "compability":"crystal",
+        "language":"crystal",
+        "icon":"devicon-devicon-plain",
+        "display":"Crystal (0.20.5)",
+        "method":"add"
+    },{
+        "code":"3512",
+        "compability":"ml",
+        "language":"fsharp",
+        "icon":"devicon-devicon-plain",
+        "display":"F# (Mono 4.0)",
+        "method":"add"
+    },{
+        "code":"3513",
+        "compability":"unlambda",
+        "language":"unlambda",
+        "icon":"devicon-devicon-plain",
+        "display":"Unlambda (0.1.3)",
+        "method":"add"
+    },{
+        "code":"3514",
+        "compability":"lua",
+        "language":"lua",
+        "icon":"devicon-devicon-plain",
+        "display":"Lua (5.3.2)",
+        "method":"add"
+    },{
+        "code":"3515",
+        "compability":"lua",
+        "language":"luajit",
+        "icon":"devicon-devicon-plain",
+        "display":"LuaJIT (2.0.4)",
+        "method":"add"
+    },{
+        "code":"3516",
+        "compability":"moonscript",
+        "language":"moonscript",
+        "icon":"devicon-devicon-plain",
+        "display":"MoonScript (0.5.0)",
+        "method":"add"
+    },{
+        "code":"3517",
+        "compability":"ceylon",
+        "language":"ceylon",
+        "icon":"devicon-devicon-plain",
+        "display":"Ceylon (1.2.1)",
+        "method":"add"
+    },{
+        "code":"3518",
+        "compability":"julia",
+        "language":"julia",
+        "icon":"devicon-devicon-plain",
+        "display":"Julia (0.5.0)",
+        "method":"add"
+    },{
+        "code":"3519",
+        "compability":"octave",
+        "language":"octave",
+        "icon":"devicon-devicon-plain",
+        "display":"Octave (4.0.2)",
+        "method":"add"
+    },{
+        "code":"3520",
+        "compability":"nim",
+        "language":"nim",
+        "icon":"devicon-devicon-plain",
+        "display":"Nim (0.13.0)",
+        "method":"add"
+    },{
+        "code":"3521",
+        "compability":"typescript",
+        "language":"typescript",
+        "icon":"devicon-devicon-plain",
+        "display":"TypeScript (2.1.6)",
+        "method":"add"
+    },{
+        "code":"3522",
+        "compability":"perl",
+        "language":"perl",
+        "icon":"devicon-devicon-plain",
+        "display":"Perl6 (rakudo-star 2016.01)",
+        "method":"add"
+    },{
+        "code":"3523",
+        "compability":"kotlin",
+        "language":"kotlin",
+        "icon":"devicon-devicon-plain",
+        "display":"Kotlin (1.0.0)",
+        "method":"add"
+    },{
+        "code":"3524",
+        "compability":"php",
+        "language":"php",
+        "icon":"devicon-php-plain",
+        "display":"PHP7 (7.0.15)",
+        "method":"add"
+    }]
+}
