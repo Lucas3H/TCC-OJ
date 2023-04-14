@@ -1,0 +1,123 @@
+<?php
+
+return [
+    "problem"          => "Problema",
+    "submitted"        => "Enviado",
+    "passed"           => "BOUA!",
+    "acrate"           => "Taxa de BOUA's",
+    "totalpoints"      => "Pontos totais",
+    "acratio"          => "BOUA's / Submissões",
+    "back"             => "Voltar",
+    "filter"           => "Filtro",
+    "empty"            => "Deu ruim sua busca.",
+    "timelimit"        => "Tempo limite",
+    "memorylimit"      => "Memoória limite",
+    "download"         => "Download",
+    "section" => [
+        "description"  => "Description:",
+        "input"        => "Input:",
+        "output"       => "Output:",
+        "sample" => [
+            "input"  => "Sample Input:",
+            "output" => "Sample Output:",
+            "copy"   => "Copiar",
+            "copied" => "Copiado",
+            "failed" => "Failed",
+        ],
+        "note"         => "Note:",
+    ],
+    "action" => [
+        "loginsubmit"  => "Login & Enviar",
+        "submit"       => "Enviar",
+        "discussion"   => "Discussão",
+        "backdiss"     => "Voltar para a Discussão",
+        "solution"     => "Solução",
+        "description"  => "Descrição",
+    ],
+    "info" => [
+        "title"        => "Informação",
+        "provider"     => "Provedor",
+        "origin"       => "Origem",
+        "code"         => "Código",
+        "tags"         => "Tags",
+        "submitted"    => "Submetido",
+        "passed"       => "BOUA!",
+        "acrate"       => "Taxa de BOUA's",
+        "date"         => "Datas",
+    ],
+    "related" => [
+        "title"        => "Relacionados",
+        "empty"        => "Nada ainda",
+    ],
+    "editor" => [
+        "history" => [
+            "button"   => "História",
+            "title"    => "Histórico de submissões",
+            "close"    => "Fechar",
+            "time"     => "Tempo",
+            "memory"   => "Memória",
+            "language" => "Língua",
+            "result"   => "Veredito",
+        ],
+        "submit" => [
+            "normal"   => "Submeter",
+            "submit"   => "Submetendo",
+            "unable"   => "Submição não disponível",
+            "original" => "Problema Original",
+        ],
+        "theme" => [
+            "title"    => "THEME:",
+        ],
+    ],
+    "discussion" => [
+        "action"       => "Postar uma discussão",
+        "empty"        => "Nada ainda :(",
+        "comments"     => "{0} comments|{1} comment|[2,*] comments",
+        "title"        => "Título",
+        "post"         => "Post",
+        "close"        => "Fechar",
+        "holder"       => "Escreva um comentário...",
+        "emptycomment" => "Nada ainda. Bora comentar aew",
+        "postcomment" => [
+            "title"    => "Postar um comentário",
+        ]
+    ],
+    "solution" => [
+        "empty"        => "Nenhuma solução ainda.",
+        "audit" => [
+            "title"    => "Auditar Status",
+            "passed"   => "BOUA!",
+            "pending"  => "In queue",
+            "denied"   => "Recusado",
+        ],
+        "action" => [
+            "share"    => "Compartilhar",
+            "update"   => "Atualizar",
+            "delete"   => "Deletar",
+            "cancel"   => "Cancelar",
+        ],
+    ],
+    "selector" => [
+        "caption"       => "Lista de problemas",
+        "index"         => "Index",
+        "code"          => "Código do Problema",
+        "title"         => "Título do Problema",
+        "alias"         => "Alias",
+        "points"        => "Pontos",
+        "operations"    => "Operações",
+        "action" => [
+            "add"       => "Adicionar Problema",
+        ],
+        "placeholder" => [
+            "code"      => "Coloque o código aqui",
+            "alias"     => "Coloque o Alias",
+        ],
+        "tooltip" => [
+            "empty"     => "Colocar o código primeiro",
+            "loading"   => "Carregando",
+            "duplicate" => "Duplicar Problema",
+            "error"     => "Erro de conexão",
+            "notfound"  => "Problema non ECZISTE",
+        ],
+    ],
+];
