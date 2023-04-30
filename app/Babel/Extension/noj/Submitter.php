@@ -182,3 +182,4 @@ class Submitter extends Curl
         $this->sub['memory']=round($tempMemory / 1024);
     }
 }
+
