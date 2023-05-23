@@ -39,7 +39,7 @@ services:
       args:
         user: www
         uid: 1000
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile  
       context: ./
     environment:
       - DB_HOST=db

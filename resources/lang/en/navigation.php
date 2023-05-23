@@ -3,7 +3,7 @@
 return [
     'home'          => 'Home',
     'problem'       => 'Problem',
-    'dojo'          => 'Dojo',
+    'dojo'          => 'Courses',
     'status'        => 'Status',
     'rank'          => 'Rank',
     'contest'       => 'Contest',

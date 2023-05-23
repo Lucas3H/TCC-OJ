@@ -446,7 +446,9 @@ class Crawler extends CrawlerBase
                 }
             }
             $this->line('<fg=green>Crawled contest list.</>');
-            foreach ($list as $con) $this->crawlContest($con, $incremental);
+            for($i = 0; $i < sizeof($list); $i++) { 
+                $this->crawlContest($list[$i], $incremental);
+            }
         } else {
             $this->crawlContest($con, $incremental);
         }

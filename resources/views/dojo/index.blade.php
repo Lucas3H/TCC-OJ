@@ -151,7 +151,7 @@
     @foreach($phases as $phase)
     <div class="dojo-container">
         <h2 class="dojo-phase"><span>{{$loop->iteration}}.</span> {{$phase->name}}</h2>
-        <p>{{$phase->description}}</p>
+        <p>{!!$phase['description']!!}</p>
         <div class="row">
             @foreach($phase->dojos->sortBy('order') as $dojo)
             <div class="col-12 col-sm-6 col-md-4">
@@ -260,4 +260,5 @@
     }, false);
 
 </script>
+@include("js.common.mathjax")
 @endsection

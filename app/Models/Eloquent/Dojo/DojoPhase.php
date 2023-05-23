@@ -4,6 +4,7 @@ namespace App\Models\Eloquent\Dojo;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
+use Illuminate\Support\Facades\DB;
 
 class DojoPhase extends Model
 {
@@ -12,6 +13,10 @@ class DojoPhase extends Model
     protected $fillable=[
         'name', 'description', 'passline', 'order'
     ];
+
+    public function transformMarkdown(){
+        $this->attributes['description'] = clean(convertMarkdownToHtml($this->attributes['description']));
+    }
 
     public function dojos()
     {

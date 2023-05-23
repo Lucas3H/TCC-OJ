@@ -18,11 +18,15 @@ class DojoController extends Controller
     public function index(Request $request)
     {
         $status = Auth::check() ? Auth::user()->getDojoStatistics() : false;
+        $phases = DojoPhase::all()->sortBy('order');
+        foreach($phases as $p) {
+            $p->transformMarkdown();
+        }
         return view('dojo.index', [
             'page_title' => "Dojo",
             'site_title' => config("app.name"),
             'navigation' => "Dojo",
-            'phases' => DojoPhase::all()->sortBy('order'),
+            'phases' => $phases,
             'status' => $status,
         ]);
     }

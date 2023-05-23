@@ -125,7 +125,7 @@ class DojoPhaseController extends Controller
         $form->tab('Basic', function(Form $form) {
             $form->display('id', 'ID');
             $form->text('name', __('admin.dojophases.name'))->rules('required');
-            $form->textarea('description', __('admin.dojophases.description'))->rules('required');
+            $form->simplemde('description')->rules('required');
             $form->number('passline', __('admin.dojophases.passline'))->default(0)->rules('required');
             $form->number('order', __('admin.dojophases.order'))->default(0)->rules('required');
         });
