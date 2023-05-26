@@ -18,6 +18,10 @@ class Dojo extends Model
         return $this->belongsTo('App\Models\Eloquent\Dojo\DojoPhase', 'dojo_phase_id');
     }
 
+    public function transformMarkdown(){
+        $this->attributes['description'] = clean(convertMarkdownToHtml($this->attributes['description']));
+    }
+
     public function problems()
     {
         return $this->hasMany('App\Models\Eloquent\Dojo\DojoProblem', 'dojo_id');

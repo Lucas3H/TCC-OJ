@@ -142,6 +142,8 @@
         display: inline-block;
     }
 </style>
+
+@include('js.common.markerPen')
 <div class="container mundb-standard-container">
     <div class="text-center dojo-header">
         <h1>{{__('dojo.title', ['name' => config("app.name")])}}</h1>
@@ -162,14 +164,14 @@
                     </div>
                     <div class="dojo-body">
                         <p class="wemd-grey-text wemd-text-darken-2"><i class="MDI book-multiple"></i> {{trans_choice("dojo.problemcount", $dojo->problems->count())}}</p>
-                        <p class="wemd-grey-text mb-0 mundb-text-truncate-2">{{$dojo->description}}</p>
+                        <p class="wemd-grey-text mb-0 mundb-text-truncate-2">{!!$dojo->description!!}</p>
                     </div>
                 </dojo-card>
             </div>
             <div class="col-12 d-none challenge-card-container animated fadeIn" data-challenge="{{$dojo->id}}">
                 <challenge-card>
                     <h3 class="dojo-phase">{{$dojo->name}}</h3>
-                    <p>{{$dojo->description}}</p>
+                    <p>{!!$dojo->description!!}</p>
                     <hr>
                     <p>{!!__("dojo.condition", ['problemcount' => trans_choice("dojo.problemcount", $dojo->passline)])!!}</p>
                     <challenge-container class="mb-3">
@@ -207,6 +209,7 @@
     </div>
     @endforeach
 </div>
+
 <script>
 
     window.addEventListener("load",function() {

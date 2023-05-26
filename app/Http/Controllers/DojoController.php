@@ -2,6 +2,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Eloquent\Dojo\DojoPhase;
+use App\Models\Eloquent\Dojo\Dojo;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Auth;
@@ -21,11 +22,15 @@ class DojoController extends Controller
         $phases = DojoPhase::all()->sortBy('order');
         foreach($phases as $p) {
             $p->transformMarkdown();
+            foreach($p->dojos->sortBy('order') as $dojo) {
+                $dojo->transformMarkdown();
+            }
         }
+
         return view('dojo.index', [
-            'page_title' => "Dojo",
+            'page_title' => "Cursos",
             'site_title' => config("app.name"),
-            'navigation' => "Dojo",
+            'navigation' => "Cursos",
             'phases' => $phases,
             'status' => $status,
         ]);
