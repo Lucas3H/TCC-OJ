@@ -142,7 +142,7 @@ class DojoController extends Controller
         $form->tab('Basic', function(Form $form) {
             $form->display('id', 'ID');
             $form->text('name', __('admin.dojos.name'))->rules('required');
-            $form->textarea('description', __('admin.dojos.description'))->rules('required');
+            $form->simplemde('description', __('admin.dojos.description'))->rules('required');
             $form->select('dojo_phase_id', __('admin.dojos.phase'))->options(DojoPhase::all()->pluck('name', 'id'))->rules('required');
             $form->number('passline', __('admin.dojos.passline'))->default(0)->rules('required');
             $form->number('order', __('admin.dojos.order'))->default(0)->rules('required');
